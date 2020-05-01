@@ -21,7 +21,7 @@ width: 100%;
 .intro{
     width: 100%;
     height: 100vh;
-    background: url("images/fyrS.gif") center no-repeat;
+    background: url("fyrS.gif") center no-repeat;
     background-size: cover;
     -webwit-background-size: cover;
 }
